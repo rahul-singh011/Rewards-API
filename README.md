@@ -10,8 +10,6 @@ A points-based rewards system with idempotent transactions, concurrency-safe wri
 - Backend: https://rewards-api-vrim.onrender.com
 - Video Link: https://www.loom.com/share/ad532f52b5634478a16d40aee9236142
 
-> Update these links after deployment.
-
 ---
 
 ## Tech Stack
