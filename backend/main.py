@@ -11,7 +11,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:5173",
-        "https://rewards-api-xi.vercel.app/",
+        "https://rewards-api-xi.vercel.app",
         ],
     allow_methods=["GET", "POST"],
     allow_headers=["*"],
