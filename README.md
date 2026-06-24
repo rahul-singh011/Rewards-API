@@ -8,7 +8,7 @@ A points-based rewards system with idempotent transactions, concurrency-safe wri
 
 - Frontend: https://rewards-api-xi.vercel.app/
 - Backend: https://rewards-api-vrim.onrender.com
-- API Docs: https://your-backend-url.render.com/docs
+- Video Link: https://www.loom.com/share/ad532f52b5634478a16d40aee9236142
 
 > Update these links after deployment.
 
