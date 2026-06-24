@@ -8,11 +8,11 @@ app = FastAPI(
     version="1.0.0",
 )
 
-# CORS — allows the frontend (different domain/port) to call our API
-# In production replace allow_origins=["*"] with your actual frontend URL
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["http://localhost:5173",
+        "https://rewards-api-xi.vercel.app/",
+        ],
     allow_methods=["GET", "POST"],
     allow_headers=["*"],
 )
